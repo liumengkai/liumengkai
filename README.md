@@ -1,5 +1,8 @@
 ### Hi there 👋
 I'm Pikachu，working on big data.
--   :hammer_and_pick: C++ / Qt / TypeScript / Vue / Rust / Python
-[<img align="right" width="50%" src="https://github-readme-stats-liumengkai.vercel.app/api?username=liumengkai&theme=dark&show_icons=true">](https://metrics.lecoq.io/liumengkai#gh-dark-mode-only)
-[<img align="right" width="50%" src="https://github-readme-stats-liumengkai.vercel.app/api?username=liumengkai&show_icons=true">](https://metrics.lecoq.io/liumengkai#gh-light-mode-only)
+-   :hammer_and_pick: Java / Python / Scala / Shell
+-   :pencil2: [blog](https://liumengkai.github.io/) / [wechat](https://liumengkai.github.io/images/%E5%BE%AE%E4%BF%A1.jpg) 
+
+---
+
+![](https://github-readme-stats.vercel.app/api?username=liumengkai)
